@@ -13,8 +13,6 @@
 }
 @media (max-width: 850px) {
    .header {
-      &__logo {
-      }
 
       &__nav {
          gap: 28px;
@@ -24,7 +22,7 @@
       }
    }
 }
-@media (max-width: 776px) {
+@media (max-width: 786px) {
    .header {
       &__container {
          align-items: center;
